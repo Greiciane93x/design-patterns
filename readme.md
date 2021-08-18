@@ -1,4 +1,4 @@
-#Padrões de Projeto da GoF 
+# Padrões de Projeto da GoF 
 
 
 1. Abstract Factory - Padrão de criação 
